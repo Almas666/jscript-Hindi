@@ -1,0 +1,19 @@
+#start {
+  color: green;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+#stop {
+  color: green;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+#button {
+  justify-content: center;
+}
+
+.h-1 {
+  color: white;
+}
